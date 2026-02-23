@@ -1,2 +1,6 @@
 Libro 1\nLibro 2\nLibro 3
+<<<<<<< HEAD
 Línea original
+=======
+Línea distinta clon
+>>>>>>> 96e439f (Cambio en clon)
